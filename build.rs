@@ -34,8 +34,7 @@ fn main() {
         .file("c_libs/sh2/shtp.c")
         .file("c_libs/sh2/sh2_util.c")
         .file("c_libs/sh2/sh2_SensorValue.c")
-        .compile("libsh2.a")
-    ;
+        .compile("libsh2.a");
 
     let _bindings = bindgen::Builder::default()
         //--use-core instead std
