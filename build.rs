@@ -54,7 +54,7 @@ fn main() {
 
     let b_path = PathBuf::from("src/bindings");
     _bindings
-        .write_to_file(b_path.join("shtp.rs"))
+        .write_to_file(b_path.join("sh2.rs"))
         .expect("Couldn't write bindings!");
     // Put `memory.x` in our output directory and ensure it's
     // on the linker search path.

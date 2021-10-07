@@ -202,7 +202,7 @@ Discarded input sections
  .ARM.exidx.text._ZN66_$LT$core..cell..BorrowRefMut$u20$as$u20$core..ops..drop..Drop$GT$4drop17he7495ea537c44535E
                 0x0000000000000000        0x8 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.1cdnye38tmlgla5w.rcgu.o
  .text          0x0000000000000000        0x0 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.1gbr1j0eng121y4m.rcgu.o
- .ARM.exidx.text._ZN10c_bindings5write28_$u7b$$u7b$closure$u7d$$u7d$17h80bade5f3552d1b3E
+ .ARM.exidx.text._ZN10c_bindings5write28_$u7b$$u7b$closure$u7d$$u7d$17h89bf9968f0893f89E
                 0x0000000000000000        0x8 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.1gbr1j0eng121y4m.rcgu.o
  .text          0x0000000000000000        0x0 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.1ieg0rfomd4f1aro.rcgu.o
  .ARM.exidx.text._ZN8cortex_m10peripheral11Peripherals4take28_$u7b$$u7b$closure$u7d$$u7d$17h2c172fe256e377baE
@@ -286,17 +286,17 @@ Discarded input sections
  .ARM.exidx.text._ZN8cortex_m9interrupt7disable17hcee5dc5d94903802E
                 0x0000000000000000        0x8 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.2t2zx5evpkglg3rn.rcgu.o
  .text          0x0000000000000000        0x0 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.30h1rwlpkniiw06c.rcgu.o
- .ARM.exidx.text._ZN10c_bindings4open17h60d6e404f92e6dd6E
+ .ARM.exidx.text._ZN10c_bindings4open17h36a92cc79ab9ac4fE
                 0x0000000000000000        0x8 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.30h1rwlpkniiw06c.rcgu.o
- .ARM.exidx.text._ZN10c_bindings5close17hd07a7bcff4233000E
+ .ARM.exidx.text._ZN10c_bindings5close17h19a22635f4c21059E
                 0x0000000000000000        0x8 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.30h1rwlpkniiw06c.rcgu.o
- .ARM.exidx.text._ZN10c_bindings4read17hb982908c73243892E
+ .ARM.exidx.text._ZN10c_bindings4read17h942ff13c13b963c2E
                 0x0000000000000000        0x8 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.30h1rwlpkniiw06c.rcgu.o
- .ARM.exidx.text._ZN10c_bindings5write17h71681af8e2671c6dE
+ .ARM.exidx.text._ZN10c_bindings5write17h8cdf6cf078383bc0E
                 0x0000000000000000        0x8 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.30h1rwlpkniiw06c.rcgu.o
- .ARM.exidx.text._ZN10c_bindings9getTimeUs17h9f03415005c7075dE
+ .ARM.exidx.text._ZN10c_bindings9getTimeUs17hebcd293727c71382E
                 0x0000000000000000        0x8 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.30h1rwlpkniiw06c.rcgu.o
- .ARM.exidx.text._ZN10c_bindings12eventHandler17hee62b09479365af5E
+ .ARM.exidx.text._ZN10c_bindings12eventHandler17ha601fdbd8d290954E
                 0x0000000000000000        0x8 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.30h1rwlpkniiw06c.rcgu.o
  .ARM.exidx.text.rust_begin_unwind
                 0x0000000000000000        0x8 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.30h1rwlpkniiw06c.rcgu.o
@@ -11680,7 +11680,7 @@ LOAD /Users/matvei/libs/arm/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/ar
                 0x00000000080002cc                core::ptr::drop_in_place<stm32l4xx_hal::serial::Error>
  .text._ZN66_$LT$core..cell..BorrowRefMut$u20$as$u20$core..ops..drop..Drop$GT$4drop17he7495ea537c44535E
                 0x00000000080002d4       0x2a /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.1cdnye38tmlgla5w.rcgu.o
- .text._ZN10c_bindings5write28_$u7b$$u7b$closure$u7d$$u7d$17h80bade5f3552d1b3E
+ .text._ZN10c_bindings5write28_$u7b$$u7b$closure$u7d$$u7d$17h89bf9968f0893f89E
                 0x00000000080002fe       0x7c /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.1gbr1j0eng121y4m.rcgu.o
                 0x00000000080002fe                c_bindings::write::{{closure}}
  .text._ZN8cortex_m10peripheral11Peripherals4take28_$u7b$$u7b$closure$u7d$$u7d$17h2c172fe256e377baE
@@ -11776,17 +11776,17 @@ LOAD /Users/matvei/libs/arm/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/ar
  .text._ZN8cortex_m9interrupt7disable17hcee5dc5d94903802E
                 0x0000000008000b04        0xc /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.2t2zx5evpkglg3rn.rcgu.o
                 0x0000000008000b04                cortex_m::interrupt::disable
- .text._ZN10c_bindings4open17h60d6e404f92e6dd6E
+ .text._ZN10c_bindings4open17h36a92cc79ab9ac4fE
                 0x0000000008000b10       0x20 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.30h1rwlpkniiw06c.rcgu.o
- .text._ZN10c_bindings5close17hd07a7bcff4233000E
+ .text._ZN10c_bindings5close17h19a22635f4c21059E
                 0x0000000008000b30       0x1e /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.30h1rwlpkniiw06c.rcgu.o
- .text._ZN10c_bindings4read17hb982908c73243892E
+ .text._ZN10c_bindings4read17h942ff13c13b963c2E
                 0x0000000008000b4e       0x26 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.30h1rwlpkniiw06c.rcgu.o
- .text._ZN10c_bindings5write17h71681af8e2671c6dE
+ .text._ZN10c_bindings5write17h8cdf6cf078383bc0E
                 0x0000000008000b74       0x2a /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.30h1rwlpkniiw06c.rcgu.o
- .text._ZN10c_bindings9getTimeUs17h9f03415005c7075dE
+ .text._ZN10c_bindings9getTimeUs17hebcd293727c71382E
                 0x0000000008000b9e       0x20 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.30h1rwlpkniiw06c.rcgu.o
- .text._ZN10c_bindings12eventHandler17hee62b09479365af5E
+ .text._ZN10c_bindings12eventHandler17ha601fdbd8d290954E
                 0x0000000008000bbe       0x20 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.30h1rwlpkniiw06c.rcgu.o
  .text.rust_begin_unwind
                 0x0000000008000bde       0x60 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.30h1rwlpkniiw06c.rcgu.o
@@ -13972,7 +13972,7 @@ LOAD linker stubs
  .debug_ranges  0x000000000001b568       0xc0 /Users/matvei/.rustup/toolchains/stable-x86_64-apple-darwin/lib/rustlib/thumbv7em-none-eabihf/lib/libcompiler_builtins-bf4341c12e226c41.rlib(compiler_builtins-bf4341c12e226c41.compiler_builtins.a4b5bc58-cgu.148.rcgu.o)
  .debug_ranges  0x000000000001b628      0x1f8 /Users/matvei/.rustup/toolchains/stable-x86_64-apple-darwin/lib/rustlib/thumbv7em-none-eabihf/lib/libcompiler_builtins-bf4341c12e226c41.rlib(compiler_builtins-bf4341c12e226c41.compiler_builtins.a4b5bc58-cgu.15.rcgu.o)
 
-.debug_str      0x0000000000000000    0x68f73
+.debug_str      0x0000000000000000    0x68f64
  .debug_str     0x0000000000000000      0x54e /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.12zakmfcjyyqmt6i.rcgu.o
                                         0x62e (size before relaxing)
  .debug_str     0x000000000000054e      0x682 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.1cdnye38tmlgla5w.rcgu.o
@@ -14001,147 +14001,147 @@ LOAD linker stubs
                                         0x257 (size before relaxing)
  .debug_str     0x0000000000002f98       0x77 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.2t2zx5evpkglg3rn.rcgu.o
                                          0xff (size before relaxing)
- .debug_str     0x000000000000300f      0x95c /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.30h1rwlpkniiw06c.rcgu.o
-                                       0x101f (size before relaxing)
- .debug_str     0x000000000000396b      0x269 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.32j559hmnly0qsyb.rcgu.o
+ .debug_str     0x000000000000300f      0x94d /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.30h1rwlpkniiw06c.rcgu.o
+                                       0x1014 (size before relaxing)
+ .debug_str     0x000000000000395c      0x269 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.32j559hmnly0qsyb.rcgu.o
                                         0x470 (size before relaxing)
- .debug_str     0x0000000000003bd4      0x35e /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.333v235s0gae5qcs.rcgu.o
+ .debug_str     0x0000000000003bc5      0x35e /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.333v235s0gae5qcs.rcgu.o
                                         0x64f (size before relaxing)
- .debug_str     0x0000000000003f32      0x516 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.3fd1o83y96g8tbar.rcgu.o
+ .debug_str     0x0000000000003f23      0x516 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.3fd1o83y96g8tbar.rcgu.o
                                         0x7d8 (size before relaxing)
- .debug_str     0x0000000000004448       0x74 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.3s8g8j8309065b06.rcgu.o
+ .debug_str     0x0000000000004439       0x74 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.3s8g8j8309065b06.rcgu.o
                                         0x109 (size before relaxing)
- .debug_str     0x00000000000044bc       0x64 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.3vpl60ye9x5sid9z.rcgu.o
+ .debug_str     0x00000000000044ad       0x64 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.3vpl60ye9x5sid9z.rcgu.o
                                         0x441 (size before relaxing)
- .debug_str     0x0000000000004520      0x7f7 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.4f1g4e2jbzy5ewqb.rcgu.o
+ .debug_str     0x0000000000004511      0x7f7 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.4f1g4e2jbzy5ewqb.rcgu.o
                                         0x8d3 (size before relaxing)
- .debug_str     0x0000000000004d17      0x22a /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.4l8y5qpibw2dw8io.rcgu.o
+ .debug_str     0x0000000000004d08      0x22a /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.4l8y5qpibw2dw8io.rcgu.o
                                         0x521 (size before relaxing)
- .debug_str     0x0000000000004f41     0x586c /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.54ktmf6ys2n627i7.rcgu.o
+ .debug_str     0x0000000000004f32     0x586c /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.54ktmf6ys2n627i7.rcgu.o
                                        0x62b2 (size before relaxing)
- .debug_str     0x000000000000a7ad       0x2f /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.54ri8jx3qnaqahm8.rcgu.o
+ .debug_str     0x000000000000a79e       0x2f /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.54ri8jx3qnaqahm8.rcgu.o
                                          0xc1 (size before relaxing)
- .debug_str     0x000000000000a7dc      0x7e3 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.5glpq9gq3u7sh70q.rcgu.o
+ .debug_str     0x000000000000a7cd      0x7e3 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.5glpq9gq3u7sh70q.rcgu.o
                                        0x189c (size before relaxing)
- .debug_str     0x000000000000afbf       0x79 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.6mb4yk325codsm3.rcgu.o
+ .debug_str     0x000000000000afb0       0x79 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.6mb4yk325codsm3.rcgu.o
                                         0x102 (size before relaxing)
- .debug_str     0x000000000000b038       0x5f /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.f7hdoskqun8l9aw.rcgu.o
+ .debug_str     0x000000000000b029       0x5f /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.f7hdoskqun8l9aw.rcgu.o
                                         0x349 (size before relaxing)
- .debug_str     0x000000000000b097      0x2c6 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.ngukv0c21tpmmzp.rcgu.o
+ .debug_str     0x000000000000b088      0x2c6 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.ngukv0c21tpmmzp.rcgu.o
                                         0x6db (size before relaxing)
- .debug_str     0x000000000000b35d      0x537 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.q6142nuwldbvpo5.rcgu.o
+ .debug_str     0x000000000000b34e      0x537 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.q6142nuwldbvpo5.rcgu.o
                                         0xbfe (size before relaxing)
- .debug_str     0x000000000000b894      0x10c /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.yznm867nnx6wp83.rcgu.o
+ .debug_str     0x000000000000b885      0x10c /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.yznm867nnx6wp83.rcgu.o
                                         0x239 (size before relaxing)
- .debug_str     0x000000000000b9a0     0x16b3 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/build/c_bindings-31532c27d1a88da8/out/libsh2.a(sh2.o)
+ .debug_str     0x000000000000b991     0x16b3 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/build/c_bindings-31532c27d1a88da8/out/libsh2.a(sh2.o)
                                        0x1992 (size before relaxing)
- .debug_str     0x000000000000d053      0x3df /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/build/c_bindings-31532c27d1a88da8/out/libsh2.a(shtp.o)
+ .debug_str     0x000000000000d044      0x3df /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/build/c_bindings-31532c27d1a88da8/out/libsh2.a(shtp.o)
                                         0x795 (size before relaxing)
- .debug_str     0x000000000000d432       0x5b /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/build/c_bindings-31532c27d1a88da8/out/libsh2.a(sh2_util.o)
+ .debug_str     0x000000000000d423       0x5b /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/build/c_bindings-31532c27d1a88da8/out/libsh2.a(sh2_util.o)
                                         0x27e (size before relaxing)
- .debug_str     0x000000000000d48d     0x6772 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.1.rcgu.o)
+ .debug_str     0x000000000000d47e     0x6772 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.1.rcgu.o)
                                        0x780a (size before relaxing)
- .debug_str     0x0000000000013bff     0x5386 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.10.rcgu.o)
+ .debug_str     0x0000000000013bf0     0x5386 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.10.rcgu.o)
                                        0x60fe (size before relaxing)
- .debug_str     0x0000000000018f85     0x3d13 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.11.rcgu.o)
+ .debug_str     0x0000000000018f76     0x3d13 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.11.rcgu.o)
                                        0x4ef1 (size before relaxing)
- .debug_str     0x000000000001cc98     0x1dbf /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.14.rcgu.o)
+ .debug_str     0x000000000001cc89     0x1dbf /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.14.rcgu.o)
                                        0x2526 (size before relaxing)
- .debug_str     0x000000000001ea57     0x7db8 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.15.rcgu.o)
+ .debug_str     0x000000000001ea48     0x7db8 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.15.rcgu.o)
                                        0x9270 (size before relaxing)
- .debug_str     0x000000000002680f     0x2142 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.3.rcgu.o)
+ .debug_str     0x0000000000026800     0x2142 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.3.rcgu.o)
                                        0x2b4f (size before relaxing)
- .debug_str     0x0000000000028951     0x5437 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.5.rcgu.o)
+ .debug_str     0x0000000000028942     0x5437 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.5.rcgu.o)
                                        0x5e3b (size before relaxing)
- .debug_str     0x000000000002dd88     0x132f /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.7.rcgu.o)
+ .debug_str     0x000000000002dd79     0x132f /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.7.rcgu.o)
                                        0x1eeb (size before relaxing)
- .debug_str     0x000000000002f0b7     0x4b70 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.8.rcgu.o)
+ .debug_str     0x000000000002f0a8     0x4b70 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.8.rcgu.o)
                                        0x5e0d (size before relaxing)
- .debug_str     0x0000000000033c27     0x12e7 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.9.rcgu.o)
+ .debug_str     0x0000000000033c18     0x12e7 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.9.rcgu.o)
                                        0x1dcc (size before relaxing)
- .debug_str     0x0000000000034f0e     0x10e7 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4-05256c6f64d37bec.rlib(stm32l4-05256c6f64d37bec.stm32l4.d58d3b55-cgu.3.rcgu.o)
+ .debug_str     0x0000000000034eff     0x10e7 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4-05256c6f64d37bec.rlib(stm32l4-05256c6f64d37bec.stm32l4.d58d3b55-cgu.3.rcgu.o)
                                        0x14f0 (size before relaxing)
- .debug_str     0x0000000000035ff5      0x965 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.0.rcgu.o)
+ .debug_str     0x0000000000035fe6      0x965 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.0.rcgu.o)
                                         0xe3d (size before relaxing)
- .debug_str     0x000000000003695a       0xfd /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.1.rcgu.o)
+ .debug_str     0x000000000003694b       0xfd /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.1.rcgu.o)
                                         0x256 (size before relaxing)
- .debug_str     0x0000000000036a57      0x326 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.10.rcgu.o)
+ .debug_str     0x0000000000036a48      0x326 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.10.rcgu.o)
                                         0x5b5 (size before relaxing)
- .debug_str     0x0000000000036d7d      0x55f /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.13.rcgu.o)
+ .debug_str     0x0000000000036d6e      0x55f /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.13.rcgu.o)
                                         0x870 (size before relaxing)
- .debug_str     0x00000000000372dc       0x5f /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.14.rcgu.o)
+ .debug_str     0x00000000000372cd       0x5f /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.14.rcgu.o)
                                         0x191 (size before relaxing)
- .debug_str     0x000000000003733b      0x12f /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.15.rcgu.o)
+ .debug_str     0x000000000003732c      0x12f /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.15.rcgu.o)
                                         0x523 (size before relaxing)
- .debug_str     0x000000000003746a      0xa57 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.2.rcgu.o)
+ .debug_str     0x000000000003745b      0xa57 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.2.rcgu.o)
                                        0x109a (size before relaxing)
- .debug_str     0x0000000000037ec1      0x35a /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.4.rcgu.o)
+ .debug_str     0x0000000000037eb2      0x35a /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.4.rcgu.o)
                                         0x572 (size before relaxing)
- .debug_str     0x000000000003821b      0x41e /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.5.rcgu.o)
+ .debug_str     0x000000000003820c      0x41e /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.5.rcgu.o)
                                         0x9f1 (size before relaxing)
- .debug_str     0x0000000000038639       0x76 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.6.rcgu.o)
+ .debug_str     0x000000000003862a       0x76 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.6.rcgu.o)
                                         0x221 (size before relaxing)
- .debug_str     0x00000000000386af      0x191 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.7.rcgu.o)
+ .debug_str     0x00000000000386a0      0x191 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.7.rcgu.o)
                                         0x39d (size before relaxing)
- .debug_str     0x0000000000038840      0x28e /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.8.rcgu.o)
+ .debug_str     0x0000000000038831      0x28e /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.8.rcgu.o)
                                         0x43f (size before relaxing)
- .debug_str     0x0000000000038ace      0x1e3 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.9.rcgu.o)
+ .debug_str     0x0000000000038abf      0x1e3 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.9.rcgu.o)
                                         0x3f6 (size before relaxing)
- .debug_str     0x0000000000038cb1      0x184 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.11.rcgu.o)
+ .debug_str     0x0000000000038ca2      0x184 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.11.rcgu.o)
                                         0x36a (size before relaxing)
- .debug_str     0x0000000000038e35       0xe5 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.12.rcgu.o)
+ .debug_str     0x0000000000038e26       0xe5 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.12.rcgu.o)
                                         0x251 (size before relaxing)
- .debug_str     0x0000000000038f1a      0x6af /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.3.rcgu.o)
+ .debug_str     0x0000000000038f0b      0x6af /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.3.rcgu.o)
                                         0x912 (size before relaxing)
- .debug_str     0x00000000000395c9      0x1c5 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m_rt-b3590773e0e36adf.rlib(cortex_m_rt-b3590773e0e36adf.cortex_m_rt.87bf43ee-cgu.1.rcgu.o)
+ .debug_str     0x00000000000395ba      0x1c5 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m_rt-b3590773e0e36adf.rlib(cortex_m_rt-b3590773e0e36adf.cortex_m_rt.87bf43ee-cgu.1.rcgu.o)
                                         0x266 (size before relaxing)
- .debug_str     0x000000000003978e      0x1ad /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m_rt-b3590773e0e36adf.rlib(cortex_m_rt-b3590773e0e36adf.cortex_m_rt.87bf43ee-cgu.2.rcgu.o)
+ .debug_str     0x000000000003977f      0x1ad /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m_rt-b3590773e0e36adf.rlib(cortex_m_rt-b3590773e0e36adf.cortex_m_rt.87bf43ee-cgu.2.rcgu.o)
                                         0x44d (size before relaxing)
- .debug_str     0x000000000003993b       0x6e /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m_rt-b3590773e0e36adf.rlib(cortex_m_rt-b3590773e0e36adf.cortex_m_rt.87bf43ee-cgu.3.rcgu.o)
+ .debug_str     0x000000000003992c       0x6e /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m_rt-b3590773e0e36adf.rlib(cortex_m_rt-b3590773e0e36adf.cortex_m_rt.87bf43ee-cgu.3.rcgu.o)
                                         0x468 (size before relaxing)
- .debug_str     0x00000000000399a9      0x15d /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m_rt-b3590773e0e36adf.rlib(cortex_m_rt-b3590773e0e36adf.cortex_m_rt.87bf43ee-cgu.4.rcgu.o)
+ .debug_str     0x000000000003999a      0x15d /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m_rt-b3590773e0e36adf.rlib(cortex_m_rt-b3590773e0e36adf.cortex_m_rt.87bf43ee-cgu.4.rcgu.o)
                                         0x2a5 (size before relaxing)
- .debug_str     0x0000000000039b06       0x39 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m_rt-b3590773e0e36adf.rlib(cortex_m_rt-b3590773e0e36adf.cortex_m_rt.87bf43ee-cgu.5.rcgu.o)
+ .debug_str     0x0000000000039af7       0x39 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m_rt-b3590773e0e36adf.rlib(cortex_m_rt-b3590773e0e36adf.cortex_m_rt.87bf43ee-cgu.5.rcgu.o)
                                         0x177 (size before relaxing)
- .debug_str     0x0000000000039b3f       0xb4 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m_rt-b3590773e0e36adf.rlib(cortex_m_rt-b3590773e0e36adf.cortex_m_rt.87bf43ee-cgu.6.rcgu.o)
+ .debug_str     0x0000000000039b30       0xb4 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m_rt-b3590773e0e36adf.rlib(cortex_m_rt-b3590773e0e36adf.cortex_m_rt.87bf43ee-cgu.6.rcgu.o)
                                         0x293 (size before relaxing)
- .debug_str     0x0000000000039bf3       0x8d /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m_rt-b3590773e0e36adf.rlib(cortex_m_rt-b3590773e0e36adf.cortex_m_rt.87bf43ee-cgu.7.rcgu.o)
+ .debug_str     0x0000000000039be4       0x8d /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m_rt-b3590773e0e36adf.rlib(cortex_m_rt-b3590773e0e36adf.cortex_m_rt.87bf43ee-cgu.7.rcgu.o)
                                         0x1c9 (size before relaxing)
- .debug_str     0x0000000000039c80       0xb9 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m_rt-b3590773e0e36adf.rlib(cortex_m_rt-b3590773e0e36adf.cortex_m_rt.87bf43ee-cgu.0.rcgu.o)
+ .debug_str     0x0000000000039c71       0xb9 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m_rt-b3590773e0e36adf.rlib(cortex_m_rt-b3590773e0e36adf.cortex_m_rt.87bf43ee-cgu.0.rcgu.o)
                                         0x1cf (size before relaxing)
- .debug_str     0x0000000000039d39      0x4eb /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m-974dd3580c87b8b2.rlib(cortex_m-974dd3580c87b8b2.cortex_m.7748a383-cgu.15.rcgu.o)
+ .debug_str     0x0000000000039d2a      0x4eb /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m-974dd3580c87b8b2.rlib(cortex_m-974dd3580c87b8b2.cortex_m.7748a383-cgu.15.rcgu.o)
                                         0x761 (size before relaxing)
- .debug_str     0x000000000003a224      0x4a0 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m-974dd3580c87b8b2.rlib(cortex_m-974dd3580c87b8b2.cortex_m.7748a383-cgu.2.rcgu.o)
+ .debug_str     0x000000000003a215      0x4a0 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m-974dd3580c87b8b2.rlib(cortex_m-974dd3580c87b8b2.cortex_m.7748a383-cgu.2.rcgu.o)
                                         0x69d (size before relaxing)
- .debug_str     0x000000000003a6c4      0x18d /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m-974dd3580c87b8b2.rlib(cortex_m-974dd3580c87b8b2.cortex_m.7748a383-cgu.9.rcgu.o)
+ .debug_str     0x000000000003a6b5      0x18d /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m-974dd3580c87b8b2.rlib(cortex_m-974dd3580c87b8b2.cortex_m.7748a383-cgu.9.rcgu.o)
                                         0x41a (size before relaxing)
- .debug_str     0x000000000003a851      0x7a1 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m-974dd3580c87b8b2.rlib(bin/thumbv7em-none-eabihf.o)
+ .debug_str     0x000000000003a842      0x7a1 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m-974dd3580c87b8b2.rlib(bin/thumbv7em-none-eabihf.o)
                                         0x856 (size before relaxing)
- .debug_str     0x000000000003aff2       0x9f /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m-974dd3580c87b8b2.rlib(cortex_m-974dd3580c87b8b2.cortex_m.7748a383-cgu.14.rcgu.o)
+ .debug_str     0x000000000003afe3       0x9f /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m-974dd3580c87b8b2.rlib(cortex_m-974dd3580c87b8b2.cortex_m.7748a383-cgu.14.rcgu.o)
                                         0x20a (size before relaxing)
- .debug_str     0x000000000003b091      0x3e6 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libembedded_hal-c385de97d3abef06.rlib(embedded_hal-c385de97d3abef06.embedded_hal.779adc39-cgu.11.rcgu.o)
+ .debug_str     0x000000000003b082      0x3e6 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libembedded_hal-c385de97d3abef06.rlib(embedded_hal-c385de97d3abef06.embedded_hal.779adc39-cgu.11.rcgu.o)
                                         0x596 (size before relaxing)
- .debug_str     0x000000000003b477       0xc9 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libembedded_hal-c385de97d3abef06.rlib(embedded_hal-c385de97d3abef06.embedded_hal.779adc39-cgu.3.rcgu.o)
+ .debug_str     0x000000000003b468       0xc9 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libembedded_hal-c385de97d3abef06.rlib(embedded_hal-c385de97d3abef06.embedded_hal.779adc39-cgu.3.rcgu.o)
                                         0x1e6 (size before relaxing)
- .debug_str     0x000000000003b540       0xb3 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libembedded_hal-c385de97d3abef06.rlib(embedded_hal-c385de97d3abef06.embedded_hal.779adc39-cgu.5.rcgu.o)
+ .debug_str     0x000000000003b531       0xb3 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libembedded_hal-c385de97d3abef06.rlib(embedded_hal-c385de97d3abef06.embedded_hal.779adc39-cgu.5.rcgu.o)
                                         0x1f2 (size before relaxing)
- .debug_str     0x000000000003b5f3       0xa0 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libembedded_hal-c385de97d3abef06.rlib(embedded_hal-c385de97d3abef06.embedded_hal.779adc39-cgu.6.rcgu.o)
+ .debug_str     0x000000000003b5e4       0xa0 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libembedded_hal-c385de97d3abef06.rlib(embedded_hal-c385de97d3abef06.embedded_hal.779adc39-cgu.6.rcgu.o)
                                         0x1d3 (size before relaxing)
- .debug_str     0x000000000003b693       0x90 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libembedded_hal-c385de97d3abef06.rlib(embedded_hal-c385de97d3abef06.embedded_hal.779adc39-cgu.7.rcgu.o)
+ .debug_str     0x000000000003b684       0x90 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libembedded_hal-c385de97d3abef06.rlib(embedded_hal-c385de97d3abef06.embedded_hal.779adc39-cgu.7.rcgu.o)
                                         0x225 (size before relaxing)
- .debug_str     0x000000000003b723       0xe2 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libbare_metal-1eeb36ae8a06ea88.rlib(bare_metal-1eeb36ae8a06ea88.bare_metal.59fe6d6c-cgu.0.rcgu.o)
+ .debug_str     0x000000000003b714       0xe2 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libbare_metal-1eeb36ae8a06ea88.rlib(bare_metal-1eeb36ae8a06ea88.bare_metal.59fe6d6c-cgu.0.rcgu.o)
                                         0x140 (size before relaxing)
- .debug_str     0x000000000003b805      0x173 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libgeneric_array-6b8cd5d21fe00380.rlib(generic_array-6b8cd5d21fe00380.generic_array.5526cf00-cgu.2.rcgu.o)
+ .debug_str     0x000000000003b7f6      0x173 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libgeneric_array-6b8cd5d21fe00380.rlib(generic_array-6b8cd5d21fe00380.generic_array.5526cf00-cgu.2.rcgu.o)
                                         0x45d (size before relaxing)
- .debug_str     0x000000000003b978    0x2c775 /Users/matvei/.rustup/toolchains/stable-x86_64-apple-darwin/lib/rustlib/thumbv7em-none-eabihf/lib/libcore-87c45edd00288221.rlib(core-87c45edd00288221.core.ac3626c5-cgu.0.rcgu.o)
+ .debug_str     0x000000000003b969    0x2c775 /Users/matvei/.rustup/toolchains/stable-x86_64-apple-darwin/lib/rustlib/thumbv7em-none-eabihf/lib/libcore-87c45edd00288221.rlib(core-87c45edd00288221.core.ac3626c5-cgu.0.rcgu.o)
                                       0x2d288 (size before relaxing)
- .debug_str     0x00000000000680ed      0x1e0 /Users/matvei/.rustup/toolchains/stable-x86_64-apple-darwin/lib/rustlib/thumbv7em-none-eabihf/lib/libcompiler_builtins-bf4341c12e226c41.rlib(compiler_builtins-bf4341c12e226c41.compiler_builtins.a4b5bc58-cgu.148.rcgu.o)
+ .debug_str     0x00000000000680de      0x1e0 /Users/matvei/.rustup/toolchains/stable-x86_64-apple-darwin/lib/rustlib/thumbv7em-none-eabihf/lib/libcompiler_builtins-bf4341c12e226c41.rlib(compiler_builtins-bf4341c12e226c41.compiler_builtins.a4b5bc58-cgu.148.rcgu.o)
                                         0x243 (size before relaxing)
- .debug_str     0x00000000000682cd      0xca6 /Users/matvei/.rustup/toolchains/stable-x86_64-apple-darwin/lib/rustlib/thumbv7em-none-eabihf/lib/libcompiler_builtins-bf4341c12e226c41.rlib(compiler_builtins-bf4341c12e226c41.compiler_builtins.a4b5bc58-cgu.15.rcgu.o)
+ .debug_str     0x00000000000682be      0xca6 /Users/matvei/.rustup/toolchains/stable-x86_64-apple-darwin/lib/rustlib/thumbv7em-none-eabihf/lib/libcompiler_builtins-bf4341c12e226c41.rlib(compiler_builtins-bf4341c12e226c41.compiler_builtins.a4b5bc58-cgu.15.rcgu.o)
                                         0xeae (size before relaxing)
 
 .debug_pubnames
-                0x0000000000000000    0x1eaa0
+                0x0000000000000000    0x1ea9f
  .debug_pubnames
                 0x0000000000000000       0xee /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.12zakmfcjyyqmt6i.rcgu.o
  .debug_pubnames
@@ -14171,140 +14171,140 @@ LOAD linker stubs
  .debug_pubnames
                 0x00000000000011bc       0x44 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.2t2zx5evpkglg3rn.rcgu.o
  .debug_pubnames
-                0x0000000000001200      0x2e7 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.30h1rwlpkniiw06c.rcgu.o
+                0x0000000000001200      0x2e6 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.30h1rwlpkniiw06c.rcgu.o
  .debug_pubnames
-                0x00000000000014e7      0x2a4 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.32j559hmnly0qsyb.rcgu.o
+                0x00000000000014e6      0x2a4 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.32j559hmnly0qsyb.rcgu.o
  .debug_pubnames
-                0x000000000000178b      0x11c /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.333v235s0gae5qcs.rcgu.o
+                0x000000000000178a      0x11c /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.333v235s0gae5qcs.rcgu.o
  .debug_pubnames
-                0x00000000000018a7      0x274 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.3fd1o83y96g8tbar.rcgu.o
+                0x00000000000018a6      0x274 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.3fd1o83y96g8tbar.rcgu.o
  .debug_pubnames
-                0x0000000000001b1b       0x7c /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.3s8g8j8309065b06.rcgu.o
+                0x0000000000001b1a       0x7c /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.3s8g8j8309065b06.rcgu.o
  .debug_pubnames
-                0x0000000000001b97       0xb8 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.3vpl60ye9x5sid9z.rcgu.o
+                0x0000000000001b96       0xb8 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.3vpl60ye9x5sid9z.rcgu.o
  .debug_pubnames
-                0x0000000000001c4f      0x362 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.4f1g4e2jbzy5ewqb.rcgu.o
+                0x0000000000001c4e      0x362 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.4f1g4e2jbzy5ewqb.rcgu.o
  .debug_pubnames
-                0x0000000000001fb1      0x1cb /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.4l8y5qpibw2dw8io.rcgu.o
+                0x0000000000001fb0      0x1cb /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.4l8y5qpibw2dw8io.rcgu.o
  .debug_pubnames
-                0x000000000000217c     0x2227 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.54ktmf6ys2n627i7.rcgu.o
+                0x000000000000217b     0x2227 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.54ktmf6ys2n627i7.rcgu.o
  .debug_pubnames
-                0x00000000000043a3       0x31 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.54ri8jx3qnaqahm8.rcgu.o
+                0x00000000000043a2       0x31 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.54ri8jx3qnaqahm8.rcgu.o
  .debug_pubnames
-                0x00000000000043d4      0x2d3 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.5glpq9gq3u7sh70q.rcgu.o
+                0x00000000000043d3      0x2d3 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.5glpq9gq3u7sh70q.rcgu.o
  .debug_pubnames
-                0x00000000000046a7       0x3c /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.6mb4yk325codsm3.rcgu.o
+                0x00000000000046a6       0x3c /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.6mb4yk325codsm3.rcgu.o
  .debug_pubnames
-                0x00000000000046e3      0x163 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.f7hdoskqun8l9aw.rcgu.o
+                0x00000000000046e2      0x163 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.f7hdoskqun8l9aw.rcgu.o
  .debug_pubnames
-                0x0000000000004846      0x12a /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.ngukv0c21tpmmzp.rcgu.o
+                0x0000000000004845      0x12a /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.ngukv0c21tpmmzp.rcgu.o
  .debug_pubnames
-                0x0000000000004970      0x36b /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.q6142nuwldbvpo5.rcgu.o
+                0x000000000000496f      0x36b /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.q6142nuwldbvpo5.rcgu.o
  .debug_pubnames
-                0x0000000000004cdb       0x72 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.yznm867nnx6wp83.rcgu.o
+                0x0000000000004cda       0x72 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.yznm867nnx6wp83.rcgu.o
  .debug_pubnames
-                0x0000000000004d4d     0x114a /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.1.rcgu.o)
+                0x0000000000004d4c     0x114a /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.1.rcgu.o)
  .debug_pubnames
-                0x0000000000005e97     0x143f /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.10.rcgu.o)
+                0x0000000000005e96     0x143f /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.10.rcgu.o)
  .debug_pubnames
-                0x00000000000072d6     0x1eb3 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.11.rcgu.o)
+                0x00000000000072d5     0x1eb3 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.11.rcgu.o)
  .debug_pubnames
-                0x0000000000009189      0xb02 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.14.rcgu.o)
+                0x0000000000009188      0xb02 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.14.rcgu.o)
  .debug_pubnames
-                0x0000000000009c8b     0x1854 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.15.rcgu.o)
+                0x0000000000009c8a     0x1854 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.15.rcgu.o)
  .debug_pubnames
-                0x000000000000b4df      0x9c3 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.3.rcgu.o)
+                0x000000000000b4de      0x9c3 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.3.rcgu.o)
  .debug_pubnames
-                0x000000000000bea2     0x14bb /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.5.rcgu.o)
+                0x000000000000bea1     0x14bb /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.5.rcgu.o)
  .debug_pubnames
-                0x000000000000d35d      0xab7 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.7.rcgu.o)
+                0x000000000000d35c      0xab7 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.7.rcgu.o)
  .debug_pubnames
-                0x000000000000de14     0x1205 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.8.rcgu.o)
+                0x000000000000de13     0x1205 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.8.rcgu.o)
  .debug_pubnames
-                0x000000000000f019      0x943 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.9.rcgu.o)
+                0x000000000000f018      0x943 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.9.rcgu.o)
  .debug_pubnames
-                0x000000000000f95c      0x8d7 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4-05256c6f64d37bec.rlib(stm32l4-05256c6f64d37bec.stm32l4.d58d3b55-cgu.3.rcgu.o)
+                0x000000000000f95b      0x8d7 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4-05256c6f64d37bec.rlib(stm32l4-05256c6f64d37bec.stm32l4.d58d3b55-cgu.3.rcgu.o)
  .debug_pubnames
-                0x0000000000010233      0x35f /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.0.rcgu.o)
+                0x0000000000010232      0x35f /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.0.rcgu.o)
  .debug_pubnames
-                0x0000000000010592       0x6e /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.1.rcgu.o)
+                0x0000000000010591       0x6e /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.1.rcgu.o)
  .debug_pubnames
-                0x0000000000010600       0xfa /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.10.rcgu.o)
+                0x00000000000105ff       0xfa /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.10.rcgu.o)
  .debug_pubnames
-                0x00000000000106fa      0x351 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.13.rcgu.o)
+                0x00000000000106f9      0x351 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.13.rcgu.o)
  .debug_pubnames
-                0x0000000000010a4b       0x5a /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.14.rcgu.o)
+                0x0000000000010a4a       0x5a /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.14.rcgu.o)
  .debug_pubnames
-                0x0000000000010aa5       0xdd /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.15.rcgu.o)
+                0x0000000000010aa4       0xdd /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.15.rcgu.o)
  .debug_pubnames
-                0x0000000000010b82      0x353 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.2.rcgu.o)
+                0x0000000000010b81      0x353 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.2.rcgu.o)
  .debug_pubnames
-                0x0000000000010ed5      0x164 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.4.rcgu.o)
+                0x0000000000010ed4      0x164 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.4.rcgu.o)
  .debug_pubnames
-                0x0000000000011039      0x248 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.5.rcgu.o)
+                0x0000000000011038      0x248 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.5.rcgu.o)
  .debug_pubnames
-                0x0000000000011281       0x96 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.6.rcgu.o)
+                0x0000000000011280       0x96 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.6.rcgu.o)
  .debug_pubnames
-                0x0000000000011317       0xf3 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.7.rcgu.o)
+                0x0000000000011316       0xf3 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.7.rcgu.o)
  .debug_pubnames
-                0x000000000001140a      0x126 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.8.rcgu.o)
+                0x0000000000011409      0x126 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.8.rcgu.o)
  .debug_pubnames
-                0x0000000000011530      0x170 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.9.rcgu.o)
+                0x000000000001152f      0x170 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.9.rcgu.o)
  .debug_pubnames
-                0x00000000000116a0       0xf4 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.11.rcgu.o)
+                0x000000000001169f       0xf4 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.11.rcgu.o)
  .debug_pubnames
-                0x0000000000011794       0x7b /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.12.rcgu.o)
+                0x0000000000011793       0x7b /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.12.rcgu.o)
  .debug_pubnames
-                0x000000000001180f      0x128 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.3.rcgu.o)
+                0x000000000001180e      0x128 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.3.rcgu.o)
  .debug_pubnames
-                0x0000000000011937       0x93 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m_rt-b3590773e0e36adf.rlib(cortex_m_rt-b3590773e0e36adf.cortex_m_rt.87bf43ee-cgu.1.rcgu.o)
+                0x0000000000011936       0x93 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m_rt-b3590773e0e36adf.rlib(cortex_m_rt-b3590773e0e36adf.cortex_m_rt.87bf43ee-cgu.1.rcgu.o)
  .debug_pubnames
-                0x00000000000119ca      0x128 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m_rt-b3590773e0e36adf.rlib(cortex_m_rt-b3590773e0e36adf.cortex_m_rt.87bf43ee-cgu.2.rcgu.o)
+                0x00000000000119c9      0x128 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m_rt-b3590773e0e36adf.rlib(cortex_m_rt-b3590773e0e36adf.cortex_m_rt.87bf43ee-cgu.2.rcgu.o)
  .debug_pubnames
-                0x0000000000011af2       0xa2 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m_rt-b3590773e0e36adf.rlib(cortex_m_rt-b3590773e0e36adf.cortex_m_rt.87bf43ee-cgu.3.rcgu.o)
+                0x0000000000011af1       0xa2 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m_rt-b3590773e0e36adf.rlib(cortex_m_rt-b3590773e0e36adf.cortex_m_rt.87bf43ee-cgu.3.rcgu.o)
  .debug_pubnames
-                0x0000000000011b94       0x9e /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m_rt-b3590773e0e36adf.rlib(cortex_m_rt-b3590773e0e36adf.cortex_m_rt.87bf43ee-cgu.4.rcgu.o)
+                0x0000000000011b93       0x9e /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m_rt-b3590773e0e36adf.rlib(cortex_m_rt-b3590773e0e36adf.cortex_m_rt.87bf43ee-cgu.4.rcgu.o)
  .debug_pubnames
-                0x0000000000011c32       0x7c /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m_rt-b3590773e0e36adf.rlib(cortex_m_rt-b3590773e0e36adf.cortex_m_rt.87bf43ee-cgu.5.rcgu.o)
+                0x0000000000011c31       0x7c /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m_rt-b3590773e0e36adf.rlib(cortex_m_rt-b3590773e0e36adf.cortex_m_rt.87bf43ee-cgu.5.rcgu.o)
  .debug_pubnames
-                0x0000000000011cae       0x9c /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m_rt-b3590773e0e36adf.rlib(cortex_m_rt-b3590773e0e36adf.cortex_m_rt.87bf43ee-cgu.6.rcgu.o)
+                0x0000000000011cad       0x9c /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m_rt-b3590773e0e36adf.rlib(cortex_m_rt-b3590773e0e36adf.cortex_m_rt.87bf43ee-cgu.6.rcgu.o)
  .debug_pubnames
-                0x0000000000011d4a       0x5c /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m_rt-b3590773e0e36adf.rlib(cortex_m_rt-b3590773e0e36adf.cortex_m_rt.87bf43ee-cgu.7.rcgu.o)
+                0x0000000000011d49       0x5c /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m_rt-b3590773e0e36adf.rlib(cortex_m_rt-b3590773e0e36adf.cortex_m_rt.87bf43ee-cgu.7.rcgu.o)
  .debug_pubnames
-                0x0000000000011da6       0x7b /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m_rt-b3590773e0e36adf.rlib(cortex_m_rt-b3590773e0e36adf.cortex_m_rt.87bf43ee-cgu.0.rcgu.o)
+                0x0000000000011da5       0x7b /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m_rt-b3590773e0e36adf.rlib(cortex_m_rt-b3590773e0e36adf.cortex_m_rt.87bf43ee-cgu.0.rcgu.o)
  .debug_pubnames
-                0x0000000000011e21      0x202 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m-974dd3580c87b8b2.rlib(cortex_m-974dd3580c87b8b2.cortex_m.7748a383-cgu.15.rcgu.o)
+                0x0000000000011e20      0x202 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m-974dd3580c87b8b2.rlib(cortex_m-974dd3580c87b8b2.cortex_m.7748a383-cgu.15.rcgu.o)
  .debug_pubnames
-                0x0000000000012023      0x183 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m-974dd3580c87b8b2.rlib(cortex_m-974dd3580c87b8b2.cortex_m.7748a383-cgu.2.rcgu.o)
+                0x0000000000012022      0x183 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m-974dd3580c87b8b2.rlib(cortex_m-974dd3580c87b8b2.cortex_m.7748a383-cgu.2.rcgu.o)
  .debug_pubnames
-                0x00000000000121a6      0x122 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m-974dd3580c87b8b2.rlib(cortex_m-974dd3580c87b8b2.cortex_m.7748a383-cgu.9.rcgu.o)
+                0x00000000000121a5      0x122 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m-974dd3580c87b8b2.rlib(cortex_m-974dd3580c87b8b2.cortex_m.7748a383-cgu.9.rcgu.o)
  .debug_pubnames
-                0x00000000000122c8      0x2be /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m-974dd3580c87b8b2.rlib(bin/thumbv7em-none-eabihf.o)
+                0x00000000000122c7      0x2be /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m-974dd3580c87b8b2.rlib(bin/thumbv7em-none-eabihf.o)
  .debug_pubnames
-                0x0000000000012586       0x63 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m-974dd3580c87b8b2.rlib(cortex_m-974dd3580c87b8b2.cortex_m.7748a383-cgu.14.rcgu.o)
+                0x0000000000012585       0x63 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m-974dd3580c87b8b2.rlib(cortex_m-974dd3580c87b8b2.cortex_m.7748a383-cgu.14.rcgu.o)
  .debug_pubnames
-                0x00000000000125e9      0x149 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libembedded_hal-c385de97d3abef06.rlib(embedded_hal-c385de97d3abef06.embedded_hal.779adc39-cgu.11.rcgu.o)
+                0x00000000000125e8      0x149 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libembedded_hal-c385de97d3abef06.rlib(embedded_hal-c385de97d3abef06.embedded_hal.779adc39-cgu.11.rcgu.o)
  .debug_pubnames
-                0x0000000000012732       0x62 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libembedded_hal-c385de97d3abef06.rlib(embedded_hal-c385de97d3abef06.embedded_hal.779adc39-cgu.3.rcgu.o)
+                0x0000000000012731       0x62 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libembedded_hal-c385de97d3abef06.rlib(embedded_hal-c385de97d3abef06.embedded_hal.779adc39-cgu.3.rcgu.o)
  .debug_pubnames
-                0x0000000000012794       0x64 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libembedded_hal-c385de97d3abef06.rlib(embedded_hal-c385de97d3abef06.embedded_hal.779adc39-cgu.5.rcgu.o)
+                0x0000000000012793       0x64 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libembedded_hal-c385de97d3abef06.rlib(embedded_hal-c385de97d3abef06.embedded_hal.779adc39-cgu.5.rcgu.o)
  .debug_pubnames
-                0x00000000000127f8       0x55 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libembedded_hal-c385de97d3abef06.rlib(embedded_hal-c385de97d3abef06.embedded_hal.779adc39-cgu.6.rcgu.o)
+                0x00000000000127f7       0x55 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libembedded_hal-c385de97d3abef06.rlib(embedded_hal-c385de97d3abef06.embedded_hal.779adc39-cgu.6.rcgu.o)
  .debug_pubnames
-                0x000000000001284d       0x77 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libembedded_hal-c385de97d3abef06.rlib(embedded_hal-c385de97d3abef06.embedded_hal.779adc39-cgu.7.rcgu.o)
+                0x000000000001284c       0x77 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libembedded_hal-c385de97d3abef06.rlib(embedded_hal-c385de97d3abef06.embedded_hal.779adc39-cgu.7.rcgu.o)
  .debug_pubnames
-                0x00000000000128c4       0x29 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libbare_metal-1eeb36ae8a06ea88.rlib(bare_metal-1eeb36ae8a06ea88.bare_metal.59fe6d6c-cgu.0.rcgu.o)
+                0x00000000000128c3       0x29 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libbare_metal-1eeb36ae8a06ea88.rlib(bare_metal-1eeb36ae8a06ea88.bare_metal.59fe6d6c-cgu.0.rcgu.o)
  .debug_pubnames
-                0x00000000000128ed       0x9a /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libgeneric_array-6b8cd5d21fe00380.rlib(generic_array-6b8cd5d21fe00380.generic_array.5526cf00-cgu.2.rcgu.o)
+                0x00000000000128ec       0x9a /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libgeneric_array-6b8cd5d21fe00380.rlib(generic_array-6b8cd5d21fe00380.generic_array.5526cf00-cgu.2.rcgu.o)
  .debug_pubnames
-                0x0000000000012987     0xbb39 /Users/matvei/.rustup/toolchains/stable-x86_64-apple-darwin/lib/rustlib/thumbv7em-none-eabihf/lib/libcore-87c45edd00288221.rlib(core-87c45edd00288221.core.ac3626c5-cgu.0.rcgu.o)
+                0x0000000000012986     0xbb39 /Users/matvei/.rustup/toolchains/stable-x86_64-apple-darwin/lib/rustlib/thumbv7em-none-eabihf/lib/libcore-87c45edd00288221.rlib(core-87c45edd00288221.core.ac3626c5-cgu.0.rcgu.o)
  .debug_pubnames
-                0x000000000001e4c0      0x182 /Users/matvei/.rustup/toolchains/stable-x86_64-apple-darwin/lib/rustlib/thumbv7em-none-eabihf/lib/libcompiler_builtins-bf4341c12e226c41.rlib(compiler_builtins-bf4341c12e226c41.compiler_builtins.a4b5bc58-cgu.148.rcgu.o)
+                0x000000000001e4bf      0x182 /Users/matvei/.rustup/toolchains/stable-x86_64-apple-darwin/lib/rustlib/thumbv7em-none-eabihf/lib/libcompiler_builtins-bf4341c12e226c41.rlib(compiler_builtins-bf4341c12e226c41.compiler_builtins.a4b5bc58-cgu.148.rcgu.o)
  .debug_pubnames
-                0x000000000001e642      0x45e /Users/matvei/.rustup/toolchains/stable-x86_64-apple-darwin/lib/rustlib/thumbv7em-none-eabihf/lib/libcompiler_builtins-bf4341c12e226c41.rlib(compiler_builtins-bf4341c12e226c41.compiler_builtins.a4b5bc58-cgu.15.rcgu.o)
+                0x000000000001e641      0x45e /Users/matvei/.rustup/toolchains/stable-x86_64-apple-darwin/lib/rustlib/thumbv7em-none-eabihf/lib/libcompiler_builtins-bf4341c12e226c41.rlib(compiler_builtins-bf4341c12e226c41.compiler_builtins.a4b5bc58-cgu.15.rcgu.o)
 
 .debug_pubtypes
-                0x0000000000000000    0x16cdb
+                0x0000000000000000    0x16cd1
  .debug_pubtypes
                 0x0000000000000000      0x466 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.12zakmfcjyyqmt6i.rcgu.o
  .debug_pubtypes
@@ -14334,137 +14334,137 @@ LOAD linker stubs
  .debug_pubtypes
                 0x0000000000002268       0x12 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.2t2zx5evpkglg3rn.rcgu.o
  .debug_pubtypes
-                0x000000000000227a      0xa34 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.30h1rwlpkniiw06c.rcgu.o
+                0x000000000000227a      0xa2a /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.30h1rwlpkniiw06c.rcgu.o
  .debug_pubtypes
-                0x0000000000002cae       0xfd /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.32j559hmnly0qsyb.rcgu.o
+                0x0000000000002ca4       0xfd /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.32j559hmnly0qsyb.rcgu.o
  .debug_pubtypes
-                0x0000000000002dab      0x335 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.333v235s0gae5qcs.rcgu.o
+                0x0000000000002da1      0x335 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.333v235s0gae5qcs.rcgu.o
  .debug_pubtypes
-                0x00000000000030e0      0x3c6 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.3fd1o83y96g8tbar.rcgu.o
+                0x00000000000030d6      0x3c6 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.3fd1o83y96g8tbar.rcgu.o
  .debug_pubtypes
-                0x00000000000034a6       0x26 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.3s8g8j8309065b06.rcgu.o
+                0x000000000000349c       0x26 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.3s8g8j8309065b06.rcgu.o
  .debug_pubtypes
-                0x00000000000034cc      0x2ea /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.3vpl60ye9x5sid9z.rcgu.o
+                0x00000000000034c2      0x2ea /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.3vpl60ye9x5sid9z.rcgu.o
  .debug_pubtypes
-                0x00000000000037b6      0x31a /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.4f1g4e2jbzy5ewqb.rcgu.o
+                0x00000000000037ac      0x31a /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.4f1g4e2jbzy5ewqb.rcgu.o
  .debug_pubtypes
-                0x0000000000003ad0      0x202 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.4l8y5qpibw2dw8io.rcgu.o
+                0x0000000000003ac6      0x202 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.4l8y5qpibw2dw8io.rcgu.o
  .debug_pubtypes
-                0x0000000000003cd2     0x187c /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.54ktmf6ys2n627i7.rcgu.o
+                0x0000000000003cc8     0x187c /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.54ktmf6ys2n627i7.rcgu.o
  .debug_pubtypes
-                0x000000000000554e       0x1a /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.54ri8jx3qnaqahm8.rcgu.o
+                0x0000000000005544       0x1a /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.54ri8jx3qnaqahm8.rcgu.o
  .debug_pubtypes
-                0x0000000000005568     0x15fb /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.5glpq9gq3u7sh70q.rcgu.o
+                0x000000000000555e     0x15fb /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.5glpq9gq3u7sh70q.rcgu.o
  .debug_pubtypes
-                0x0000000000006b63       0x21 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.6mb4yk325codsm3.rcgu.o
+                0x0000000000006b59       0x21 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.6mb4yk325codsm3.rcgu.o
  .debug_pubtypes
-                0x0000000000006b84      0x19e /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.f7hdoskqun8l9aw.rcgu.o
+                0x0000000000006b7a      0x19e /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.f7hdoskqun8l9aw.rcgu.o
  .debug_pubtypes
-                0x0000000000006d22      0x536 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.ngukv0c21tpmmzp.rcgu.o
+                0x0000000000006d18      0x536 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.ngukv0c21tpmmzp.rcgu.o
  .debug_pubtypes
-                0x0000000000007258      0x5b7 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.q6142nuwldbvpo5.rcgu.o
+                0x000000000000724e      0x5b7 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.q6142nuwldbvpo5.rcgu.o
  .debug_pubtypes
-                0x000000000000780f       0xd9 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.yznm867nnx6wp83.rcgu.o
+                0x0000000000007805       0xd9 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/c_bindings-48915bf373af57f9.yznm867nnx6wp83.rcgu.o
  .debug_pubtypes
-                0x00000000000078e8     0x287d /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.1.rcgu.o)
+                0x00000000000078de     0x287d /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.1.rcgu.o)
  .debug_pubtypes
-                0x000000000000a165     0x154e /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.10.rcgu.o)
+                0x000000000000a15b     0x154e /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.10.rcgu.o)
  .debug_pubtypes
-                0x000000000000b6b3     0x1462 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.11.rcgu.o)
+                0x000000000000b6a9     0x1462 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.11.rcgu.o)
  .debug_pubtypes
-                0x000000000000cb15      0x7d5 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.14.rcgu.o)
+                0x000000000000cb0b      0x7d5 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.14.rcgu.o)
  .debug_pubtypes
-                0x000000000000d2ea     0x2b0d /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.15.rcgu.o)
+                0x000000000000d2e0     0x2b0d /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.15.rcgu.o)
  .debug_pubtypes
-                0x000000000000fdf7      0x916 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.3.rcgu.o)
+                0x000000000000fded      0x916 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.3.rcgu.o)
  .debug_pubtypes
-                0x000000000001070d      0xac9 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.5.rcgu.o)
+                0x0000000000010703      0xac9 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.5.rcgu.o)
  .debug_pubtypes
-                0x00000000000111d6      0xae6 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.7.rcgu.o)
+                0x00000000000111cc      0xae6 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.7.rcgu.o)
  .debug_pubtypes
-                0x0000000000011cbc     0x19fb /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.8.rcgu.o)
+                0x0000000000011cb2     0x19fb /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.8.rcgu.o)
  .debug_pubtypes
-                0x00000000000136b7      0x8f8 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.9.rcgu.o)
+                0x00000000000136ad      0x8f8 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4xx_hal-df5614100141b664.rlib(stm32l4xx_hal-df5614100141b664.stm32l4xx_hal.5db93d80-cgu.9.rcgu.o)
  .debug_pubtypes
-                0x0000000000013faf      0x373 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4-05256c6f64d37bec.rlib(stm32l4-05256c6f64d37bec.stm32l4.d58d3b55-cgu.3.rcgu.o)
+                0x0000000000013fa5      0x373 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libstm32l4-05256c6f64d37bec.rlib(stm32l4-05256c6f64d37bec.stm32l4.d58d3b55-cgu.3.rcgu.o)
  .debug_pubtypes
-                0x0000000000014322      0x399 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.0.rcgu.o)
+                0x0000000000014318      0x399 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.0.rcgu.o)
  .debug_pubtypes
-                0x00000000000146bb       0x7d /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.1.rcgu.o)
+                0x00000000000146b1       0x7d /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.1.rcgu.o)
  .debug_pubtypes
-                0x0000000000014738      0x223 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.10.rcgu.o)
+                0x000000000001472e      0x223 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.10.rcgu.o)
  .debug_pubtypes
-                0x000000000001495b      0x222 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.13.rcgu.o)
+                0x0000000000014951      0x222 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.13.rcgu.o)
  .debug_pubtypes
-                0x0000000000014b7d       0x3b /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.14.rcgu.o)
+                0x0000000000014b73       0x3b /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.14.rcgu.o)
  .debug_pubtypes
-                0x0000000000014bb8      0x2d2 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.15.rcgu.o)
+                0x0000000000014bae      0x2d2 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.15.rcgu.o)
  .debug_pubtypes
-                0x0000000000014e8a      0x470 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.2.rcgu.o)
+                0x0000000000014e80      0x470 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.2.rcgu.o)
  .debug_pubtypes
-                0x00000000000152fa      0x1b8 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.4.rcgu.o)
+                0x00000000000152f0      0x1b8 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.4.rcgu.o)
  .debug_pubtypes
-                0x00000000000154b2      0x4b0 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.5.rcgu.o)
+                0x00000000000154a8      0x4b0 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.5.rcgu.o)
  .debug_pubtypes
-                0x0000000000015962       0x69 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.6.rcgu.o)
+                0x0000000000015958       0x69 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.6.rcgu.o)
  .debug_pubtypes
-                0x00000000000159cb      0x102 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.7.rcgu.o)
+                0x00000000000159c1      0x102 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.7.rcgu.o)
  .debug_pubtypes
-                0x0000000000015acd       0x7f /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.8.rcgu.o)
+                0x0000000000015ac3       0x7f /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.8.rcgu.o)
  .debug_pubtypes
-                0x0000000000015b4c       0xbb /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.9.rcgu.o)
+                0x0000000000015b42       0xbb /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.9.rcgu.o)
  .debug_pubtypes
-                0x0000000000015c07       0xcc /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.11.rcgu.o)
+                0x0000000000015bfd       0xcc /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.11.rcgu.o)
  .debug_pubtypes
-                0x0000000000015cd3       0x4d /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.12.rcgu.o)
+                0x0000000000015cc9       0x4d /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.12.rcgu.o)
  .debug_pubtypes
-                0x0000000000015d20       0xc4 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.3.rcgu.o)
+                0x0000000000015d16       0xc4 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/librtt_target-da3f470e63a18811.rlib(rtt_target-da3f470e63a18811.rtt_target.629a5517-cgu.3.rcgu.o)
  .debug_pubtypes
-                0x0000000000015de4       0x68 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m_rt-b3590773e0e36adf.rlib(cortex_m_rt-b3590773e0e36adf.cortex_m_rt.87bf43ee-cgu.1.rcgu.o)
+                0x0000000000015dda       0x68 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m_rt-b3590773e0e36adf.rlib(cortex_m_rt-b3590773e0e36adf.cortex_m_rt.87bf43ee-cgu.1.rcgu.o)
  .debug_pubtypes
-                0x0000000000015e4c      0x159 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m_rt-b3590773e0e36adf.rlib(cortex_m_rt-b3590773e0e36adf.cortex_m_rt.87bf43ee-cgu.2.rcgu.o)
+                0x0000000000015e42      0x159 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m_rt-b3590773e0e36adf.rlib(cortex_m_rt-b3590773e0e36adf.cortex_m_rt.87bf43ee-cgu.2.rcgu.o)
  .debug_pubtypes
-                0x0000000000015fa5      0x2a1 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m_rt-b3590773e0e36adf.rlib(cortex_m_rt-b3590773e0e36adf.cortex_m_rt.87bf43ee-cgu.3.rcgu.o)
+                0x0000000000015f9b      0x2a1 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m_rt-b3590773e0e36adf.rlib(cortex_m_rt-b3590773e0e36adf.cortex_m_rt.87bf43ee-cgu.3.rcgu.o)
  .debug_pubtypes
-                0x0000000000016246       0x40 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m_rt-b3590773e0e36adf.rlib(cortex_m_rt-b3590773e0e36adf.cortex_m_rt.87bf43ee-cgu.4.rcgu.o)
+                0x000000000001623c       0x40 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m_rt-b3590773e0e36adf.rlib(cortex_m_rt-b3590773e0e36adf.cortex_m_rt.87bf43ee-cgu.4.rcgu.o)
  .debug_pubtypes
-                0x0000000000016286       0x26 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m_rt-b3590773e0e36adf.rlib(cortex_m_rt-b3590773e0e36adf.cortex_m_rt.87bf43ee-cgu.5.rcgu.o)
+                0x000000000001627c       0x26 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m_rt-b3590773e0e36adf.rlib(cortex_m_rt-b3590773e0e36adf.cortex_m_rt.87bf43ee-cgu.5.rcgu.o)
  .debug_pubtypes
-                0x00000000000162ac       0x6a /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m_rt-b3590773e0e36adf.rlib(cortex_m_rt-b3590773e0e36adf.cortex_m_rt.87bf43ee-cgu.6.rcgu.o)
+                0x00000000000162a2       0x6a /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m_rt-b3590773e0e36adf.rlib(cortex_m_rt-b3590773e0e36adf.cortex_m_rt.87bf43ee-cgu.6.rcgu.o)
  .debug_pubtypes
-                0x0000000000016316       0x47 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m_rt-b3590773e0e36adf.rlib(cortex_m_rt-b3590773e0e36adf.cortex_m_rt.87bf43ee-cgu.7.rcgu.o)
+                0x000000000001630c       0x47 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m_rt-b3590773e0e36adf.rlib(cortex_m_rt-b3590773e0e36adf.cortex_m_rt.87bf43ee-cgu.7.rcgu.o)
  .debug_pubtypes
-                0x000000000001635d       0x2f /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m_rt-b3590773e0e36adf.rlib(cortex_m_rt-b3590773e0e36adf.cortex_m_rt.87bf43ee-cgu.0.rcgu.o)
+                0x0000000000016353       0x2f /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m_rt-b3590773e0e36adf.rlib(cortex_m_rt-b3590773e0e36adf.cortex_m_rt.87bf43ee-cgu.0.rcgu.o)
  .debug_pubtypes
-                0x000000000001638c      0x102 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m-974dd3580c87b8b2.rlib(cortex_m-974dd3580c87b8b2.cortex_m.7748a383-cgu.15.rcgu.o)
+                0x0000000000016382      0x102 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m-974dd3580c87b8b2.rlib(cortex_m-974dd3580c87b8b2.cortex_m.7748a383-cgu.15.rcgu.o)
  .debug_pubtypes
-                0x000000000001648e      0x1a1 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m-974dd3580c87b8b2.rlib(cortex_m-974dd3580c87b8b2.cortex_m.7748a383-cgu.2.rcgu.o)
+                0x0000000000016484      0x1a1 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m-974dd3580c87b8b2.rlib(cortex_m-974dd3580c87b8b2.cortex_m.7748a383-cgu.2.rcgu.o)
  .debug_pubtypes
-                0x000000000001662f      0x114 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m-974dd3580c87b8b2.rlib(cortex_m-974dd3580c87b8b2.cortex_m.7748a383-cgu.9.rcgu.o)
+                0x0000000000016625      0x114 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m-974dd3580c87b8b2.rlib(cortex_m-974dd3580c87b8b2.cortex_m.7748a383-cgu.9.rcgu.o)
  .debug_pubtypes
-                0x0000000000016743       0x47 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m-974dd3580c87b8b2.rlib(bin/thumbv7em-none-eabihf.o)
+                0x0000000000016739       0x47 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m-974dd3580c87b8b2.rlib(bin/thumbv7em-none-eabihf.o)
  .debug_pubtypes
-                0x000000000001678a       0x7e /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m-974dd3580c87b8b2.rlib(cortex_m-974dd3580c87b8b2.cortex_m.7748a383-cgu.14.rcgu.o)
+                0x0000000000016780       0x7e /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libcortex_m-974dd3580c87b8b2.rlib(cortex_m-974dd3580c87b8b2.cortex_m.7748a383-cgu.14.rcgu.o)
  .debug_pubtypes
-                0x0000000000016808       0xb5 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libembedded_hal-c385de97d3abef06.rlib(embedded_hal-c385de97d3abef06.embedded_hal.779adc39-cgu.11.rcgu.o)
+                0x00000000000167fe       0xb5 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libembedded_hal-c385de97d3abef06.rlib(embedded_hal-c385de97d3abef06.embedded_hal.779adc39-cgu.11.rcgu.o)
  .debug_pubtypes
-                0x00000000000168bd       0x2e /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libembedded_hal-c385de97d3abef06.rlib(embedded_hal-c385de97d3abef06.embedded_hal.779adc39-cgu.3.rcgu.o)
+                0x00000000000168b3       0x2e /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libembedded_hal-c385de97d3abef06.rlib(embedded_hal-c385de97d3abef06.embedded_hal.779adc39-cgu.3.rcgu.o)
  .debug_pubtypes
-                0x00000000000168eb       0x30 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libembedded_hal-c385de97d3abef06.rlib(embedded_hal-c385de97d3abef06.embedded_hal.779adc39-cgu.5.rcgu.o)
+                0x00000000000168e1       0x30 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libembedded_hal-c385de97d3abef06.rlib(embedded_hal-c385de97d3abef06.embedded_hal.779adc39-cgu.5.rcgu.o)
  .debug_pubtypes
-                0x000000000001691b       0x43 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libembedded_hal-c385de97d3abef06.rlib(embedded_hal-c385de97d3abef06.embedded_hal.779adc39-cgu.6.rcgu.o)
+                0x0000000000016911       0x43 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libembedded_hal-c385de97d3abef06.rlib(embedded_hal-c385de97d3abef06.embedded_hal.779adc39-cgu.6.rcgu.o)
  .debug_pubtypes
-                0x000000000001695e       0x75 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libembedded_hal-c385de97d3abef06.rlib(embedded_hal-c385de97d3abef06.embedded_hal.779adc39-cgu.7.rcgu.o)
+                0x0000000000016954       0x75 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libembedded_hal-c385de97d3abef06.rlib(embedded_hal-c385de97d3abef06.embedded_hal.779adc39-cgu.7.rcgu.o)
  .debug_pubtypes
-                0x00000000000169d3       0x2d /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libbare_metal-1eeb36ae8a06ea88.rlib(bare_metal-1eeb36ae8a06ea88.bare_metal.59fe6d6c-cgu.0.rcgu.o)
+                0x00000000000169c9       0x2d /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libbare_metal-1eeb36ae8a06ea88.rlib(bare_metal-1eeb36ae8a06ea88.bare_metal.59fe6d6c-cgu.0.rcgu.o)
  .debug_pubtypes
-                0x0000000000016a00      0x2a5 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libgeneric_array-6b8cd5d21fe00380.rlib(generic_array-6b8cd5d21fe00380.generic_array.5526cf00-cgu.2.rcgu.o)
+                0x00000000000169f6      0x2a5 /Users/matvei/klimatt_git/stm32l476-clibs-bindings/target/thumbv7em-none-eabihf/debug/deps/libgeneric_array-6b8cd5d21fe00380.rlib(generic_array-6b8cd5d21fe00380.generic_array.5526cf00-cgu.2.rcgu.o)
  .debug_pubtypes
-                0x0000000000016ca5       0x12 /Users/matvei/.rustup/toolchains/stable-x86_64-apple-darwin/lib/rustlib/thumbv7em-none-eabihf/lib/libcore-87c45edd00288221.rlib(core-87c45edd00288221.core.ac3626c5-cgu.0.rcgu.o)
+                0x0000000000016c9b       0x12 /Users/matvei/.rustup/toolchains/stable-x86_64-apple-darwin/lib/rustlib/thumbv7em-none-eabihf/lib/libcore-87c45edd00288221.rlib(core-87c45edd00288221.core.ac3626c5-cgu.0.rcgu.o)
  .debug_pubtypes
-                0x0000000000016cb7       0x12 /Users/matvei/.rustup/toolchains/stable-x86_64-apple-darwin/lib/rustlib/thumbv7em-none-eabihf/lib/libcompiler_builtins-bf4341c12e226c41.rlib(compiler_builtins-bf4341c12e226c41.compiler_builtins.a4b5bc58-cgu.148.rcgu.o)
+                0x0000000000016cad       0x12 /Users/matvei/.rustup/toolchains/stable-x86_64-apple-darwin/lib/rustlib/thumbv7em-none-eabihf/lib/libcompiler_builtins-bf4341c12e226c41.rlib(compiler_builtins-bf4341c12e226c41.compiler_builtins.a4b5bc58-cgu.148.rcgu.o)
  .debug_pubtypes
-                0x0000000000016cc9       0x12 /Users/matvei/.rustup/toolchains/stable-x86_64-apple-darwin/lib/rustlib/thumbv7em-none-eabihf/lib/libcompiler_builtins-bf4341c12e226c41.rlib(compiler_builtins-bf4341c12e226c41.compiler_builtins.a4b5bc58-cgu.15.rcgu.o)
+                0x0000000000016cbf       0x12 /Users/matvei/.rustup/toolchains/stable-x86_64-apple-darwin/lib/rustlib/thumbv7em-none-eabihf/lib/libcompiler_builtins-bf4341c12e226c41.rlib(compiler_builtins-bf4341c12e226c41.compiler_builtins.a4b5bc58-cgu.15.rcgu.o)
 
 .note.GNU-stack
                 0x0000000000000000        0x0

@@ -17,7 +17,7 @@ use stm32l4_peripherals as stm32p;
 
 use cortex_m::register::control::Spsel::Msp;
 
-use bindings::shtp::*;
+use bindings::sh2::*;
 use embedded_hal::prelude::_embedded_hal_blocking_serial_Write;
 
 
