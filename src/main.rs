@@ -24,13 +24,6 @@ use embedded_hal::prelude::_embedded_hal_blocking_serial_Write;
 #[macro_use(block)]
 extern crate nb;
 
-//include!(concat!(env!("OUT_DIR"), "/bindings.rs"));
-
-
-//static mut SERIAL_TX: Tx<stm32p::stm32::USART1> = ;
-
-
-
 extern "C" fn open(hal: *mut sh2_Hal_s) -> i32 {
     rprintln!("open");
     0
@@ -51,8 +44,6 @@ extern "C" fn write(hal: *mut sh2_Hal_s, data: *mut u8, len: u32) -> i32 {
             t.bwrite_all(&[0x01]).unwrap();
         }
     });
-
-
     0
 }
 extern "C" fn getTimeUs(hal: *mut sh2_Hal_s) -> u32 {
@@ -63,8 +54,6 @@ extern "C" fn getTimeUs(hal: *mut sh2_Hal_s) -> u32 {
 extern "C" fn eventHandler(cookie: *mut cty::c_void, pEvent: *mut sh2_AsyncEvent_t){
     rprintln!("eventHandler");
 }
-
-
 
 #[entry]
 fn main() -> ! {
@@ -82,7 +71,6 @@ fn main() -> ! {
     };
     rprintln!("sh2_open");
     let status = unsafe{ sh2_open(&mut sh2_inst, core::prelude::v1::Some(eventHandler),  core::ptr::null_mut()) };
-
     rprintln!(" res: {}", status);
     loop{
         asm::delay(8_000_000);

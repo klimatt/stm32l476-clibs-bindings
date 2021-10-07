@@ -12,8 +12,6 @@ use std::env;
 use std::fs::File;
 use std::io::Write;
 use std::path::PathBuf;
-use std::ops::Deref;
-
 extern crate bindgen;
 extern crate cc;
 fn main() {

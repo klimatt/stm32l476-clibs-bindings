@@ -53,9 +53,6 @@ pub unsafe fn setup_peripherals() -> (FLASH, SCB, PA5<Output<PushPull>>){
         .freeze(&mut flash.acr, &mut pwr);
 
     let usr_pin = gpioa.pa5.into_push_pull_output(&mut gpioa.moder, &mut gpioa.otyper);
-
-
-
     // The Serial API is highly generic
     // TRY the commented out, different pin configurations
     let tx = gpioa.pa9.into_af7(&mut gpioa.moder, &mut gpioa.afrh);
@@ -78,7 +75,6 @@ pub unsafe fn setup_peripherals() -> (FLASH, SCB, PA5<Output<PushPull>>){
         SERIAL_TX.borrow(cs).replace(Some(tx));
         SERIAL_RX.borrow(cs).replace(Some(rx));
     });
-
 
     (hal::stm32::Peripherals::steal().FLASH, cp.SCB, usr_pin)
 }
